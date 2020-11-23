@@ -4,9 +4,9 @@
 📫 st2_r@qq.com
 
 Angular
-.Net
+JS
 Rust
-k8s
+Docker
 <!--
 **St2r/St2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
