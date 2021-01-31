@@ -3,10 +3,10 @@
 李昂
 📫 st2_r@qq.com
 
-Angular
+React Hooks
 JS
 Rust
-Docker
+.Net
 <!--
 **St2r/St2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
