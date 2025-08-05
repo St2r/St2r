@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-李昂
 📫 st2_r@qq.com
 
-React Hooks
-JS
-Rust
-.Net
+TS & Rust
+
+Angular & Node.JS & Deno
+
+Docker & K8S
+
 <!--
 **St2r/St2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
